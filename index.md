@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1 align="center">
- <img src="./Assets/Assets/NIBS_black.png" alt="playing-with-nibs" />
+ <img src="./assets/ing/NIBS_black.png" alt="playing-with-nibs" />
 </h1>
 <div align="center">
    🖥️🎮Simulator for educational and informative purpose
